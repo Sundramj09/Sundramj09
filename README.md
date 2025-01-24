@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sundram</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif?cid=790b7611g5pknjf7xr9ygokkq707txukgkp0iepqwop95tzb&ep=v1_gifs_search&rid=giphy.gif&ct=g"
-
-alt="description" width="400" align="right">
-
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sundramj09&label=Profile%20views&color=0e75b6&style=flat" alt="sundramj09" /> </p>
 
 - 🌱 I’m currently learning **Data Science and Dsa**
@@ -30,5 +27,4 @@ alt="description" width="400" align="right">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sundramj09&show_icons=true&locale=en" alt="sundramj09" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sundramj09&" alt="sundramj09" /></p>
-
 
